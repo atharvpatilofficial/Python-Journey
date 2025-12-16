@@ -1,6 +1,6 @@
-name = input("Enter your name: ")
-college = input("Enter your college name: ")
+name = "Atharv Patil"
+college = "New Institute of Technology"
 
 print("Hello", name)
 print("You study at", college)
-print("Your Python journey has started!")
+print("Your Python journey has officially started!")
